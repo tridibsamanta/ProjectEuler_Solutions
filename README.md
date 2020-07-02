@@ -1,5 +1,7 @@
 # ProjectEuler_Solutions
-***My solutions to some problems listed on projecteuler.net*** (https://projecteuler.net/archives)
+***My solutions to some problems listed on projecteuler.net*** 
+
+:link: (https://projecteuler.net/archives)
 
 ![ProjectEuler](https://projecteuler.net/themes/20191019/logo_default.png)
 

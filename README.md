@@ -14,4 +14,4 @@
 (https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem)
 
 
-***Made with :blue_heart: by Tridib***
+***Made with :blue_heart: by Tridib.***
